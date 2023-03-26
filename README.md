@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaniTadala
 - 👀 I’m interested in Coding and Designing
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning Data Structures and development
 - 📫 How to reach me mail: tadlanani1947@gmail.com
 
 <!---
